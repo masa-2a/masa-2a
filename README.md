@@ -1,5 +1,5 @@
 hi! 
-Second Year CS and Math student at UofT! 🐈‍⬛  
+Second Year CS and Physics student at UofT! 🐈‍⬛  
 I'm currently persueing back-end software developer roles.  
 I have skills in Python, Java, C.  
 Currently curious about the following:
